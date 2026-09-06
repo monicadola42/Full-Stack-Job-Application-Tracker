@@ -1,0 +1,1 @@
+export default function Landing(){return <main className="min-h-screen bg-[#08090D] text-[#F5F7FA] flex items-center justify-center p-8"><div className="text-center"><div className="text-[#7C5CFF] text-sm mb-3">JobTrack</div><h1 className="text-3xl font-semibold">Welcome to JobTrack</h1></div></main>}
